@@ -17,3 +17,5 @@ function tombolSubmit() {
     contactForm.reset();
   }
   
+  var name = prompt("Masukkan nama Anda:");
+  document.getElementById("name").textContent = name;

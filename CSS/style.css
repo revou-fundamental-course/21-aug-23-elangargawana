@@ -29,7 +29,6 @@
   color: #333;
 }
 
-/*Style Untuk Hero Container*/
 .hero-container {
   background-image: url("../img/background.jpg");
   height: 600px;
@@ -60,4 +59,3 @@
     transform: scale(1.1);
     transition: 0.1s;
 }
-
